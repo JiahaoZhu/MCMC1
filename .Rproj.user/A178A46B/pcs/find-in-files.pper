@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "E:/STUDY/UWO/9864Assignment4/MCMC",
+        "query" : "coda",
+        "regex" : false
+    }
+}
